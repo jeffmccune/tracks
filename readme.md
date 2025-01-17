@@ -3,7 +3,7 @@
 For Audacity recording from Blackhole with Music.app playing into Blackhole.
 
 ```
-❯ go run .
+❯ go run ./cmd
 0.000000        0.000000        Prologue:  Beauty and the Beast
 146.906006      146.906006      Belle
 456.039001      456.039001      Belle Reprise

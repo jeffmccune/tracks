@@ -1,8 +1,7 @@
-package main
+package tracks
 
 import (
 	"fmt"
-	"os"
 	"os/exec"
 	"strconv"
 	"strings"
@@ -13,7 +12,7 @@ type Track struct {
 	Name     string
 }
 
-func getTrackInfo() ([]Track, error) {
+func GetTrackInfo() ([]Track, error) {
 	script := `tell application "Music"
         set trackList to ""
         repeat with t in selection
@@ -53,21 +52,4 @@ func getTrackInfo() ([]Track, error) {
 	}
 
 	return tracks, nil
-}
-
-func main() {
-	tracks, err := getTrackInfo()
-	if err != nil {
-		fmt.Fprintf(os.Stderr, "Error: %v\n", err)
-		os.Exit(1)
-	}
-
-	var start float64
-
-	for _, track := range tracks {
-		fmt.Printf("%.6f\t%.6f\t%s\n", start, start, track.Name)
-		start += track.Duration
-	}
-
-	os.Exit(0)
 }
