@@ -6,9 +6,14 @@
 2. Select the playlist in the left sidebar
 3. Execute `go run ./cmd > playlist.txt`
 4. Rename playlist.txt to match the album name.
-5. Set the mac sound output to BlackHole 2ch
-6. Open Audacity
-7. Start recording and start playing at the same time.  Easiest is to use one hand to press play on the keyboard and the other to press record with the mouse.
+5. Set the mac sound output to BlackHole 2ch.
+6. Turn the volume all the way up in music.app.
+7. Turn the volume all the way up in the mac system (already set to BlackHol 2-chan)
+7. Open Audacity
+8. Start recording and start playing at the same time.
+
+Good enough to use one hand to press play on the keyboard and the other to
+press record with the mouse.
 
 ## Example
 
