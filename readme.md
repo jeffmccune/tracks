@@ -15,6 +15,22 @@
 Good enough to use one hand to press play on the keyboard and the other to
 press record with the mouse.
 
+Once recorded:
+
+1. Save the project.
+2. Import the labels (File -> Import -> Labels...)
+3. Select the playlist.txt file created with the Go app.
+4. Export the audio (File -> Export Audio...)
+5. File Name: Example.mp3 (Numbering and Labels will be added)
+6. Folder: Select it.
+7. Format: MP3 Files.
+8. Sample Rate: 44100 Hz
+9. Bit Rate Mode: Preset
+10. Quality: Standard, 170-210 kbps
+11. Export Range: Multiple Files
+12. Split files based on: Labels
+13. Name files: Numbering before Label/Track Name
+
 ## Example
 
 For Audacity recording from Blackhole with Music.app playing into Blackhole.
