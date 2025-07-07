@@ -1,0 +1,47 @@
+0.000000	0.000000	Good Things Grow
+222.800003	222.800003	Good Things Grow (Villagers' Reprise)
+268.626003	268.626003	Waiting On A Wish
+560.212002	560.212002	Heigh-Ho
+785.904995	785.904995	All Is Fair
+998.624996	998.624996	Whistle While You Work
+1181.225002	1181.225002	Princess Problems
+1319.650997	1319.650997	The Silly Song
+1387.811001	1387.811001	A Hand Meets A Hand
+1636.223995	1636.223995	All Is Fair (Reprise)
+1744.329998	1744.329998	Waiting On A Wish (Reprise)
+1824.835995	1824.835995	Snow White Returns
+1907.555996	1907.555996	Good Things Grow (Finale)
+1981.168995	1981.168995	I Remember
+2196.234989	2196.234989	Mirror Mirror
+2317.954990	2317.954990	Once Upon A Time
+2377.674992	2377.674992	The Queen's Table
+2441.100990	2441.100990	The Orchard
+2584.513985	2584.513985	Animal Friends
+2804.779991	2804.779991	Don't Be Afraid
+2908.045990	2908.045990	The Fairest Lives
+2963.365990	2963.365990	Food Fight
+3021.551991	3021.551991	Whistling Lesson
+3069.031990	3069.031990	Unfair Fight
+3230.391991	3230.391991	Faith In Each Other
+3269.511990	3269.511990	Jonathan Captured
+3372.671993	3372.671993	Fearless, Fair, Brave, True
+3412.711994	3412.711994	The Apple
+3709.205006	3709.205006	Requiem
+3872.498005	3872.498005	The Dungeon
+4023.018009	4023.018009	True Love's Kiss
+4111.058010	4111.058010	We're Not Afraid
+4215.431011	4215.431011	Time To Restore Our Kingdom
+4409.457012	4409.457012	Waiting On A Wish (Main On Ends Version)
+4475.337009	4475.337009	Good Things Grow (Instrumental)
+4698.137012	4698.137012	Good Things Grow (Villagers' Reprise/Instrumental)
+4743.963013	4743.963013	Waiting On A Wish (Instrumental)
+5035.549011	5035.549011	Heigh-Ho (Instrumental)
+5255.615005	5255.615005	All Is Fair (Instrumental)
+5468.335007	5468.335007	Whistle While You Work (Instrumental)
+5650.935013	5650.935013	Princess Problems (Instrumental)
+5789.361008	5789.361008	The Silly Song (Instrumental)
+5857.521011	5857.521011	A Hand Meets A Hand (Instrumental)
+6105.934006	6105.934006	All Is Fair (Reprise/Instrumental)
+6214.040009	6214.040009	Waiting On A Wish (Reprise/Instrumental)
+6294.546005	6294.546005	Snow White Returns (Instrumental)
+6377.266006	6377.266006	Good Things Grow (Finale/Instrumental)

@@ -1,5 +1,17 @@
 # Music Tracks
 
+## Instructions
+
+1. Add the album to record to a new playlist in music.app
+2. Select the playlist in the left sidebar
+3. Execute `go run ./cmd > playlist.txt`
+4. Rename playlist.txt to match the album name.
+5. Set the mac sound output to BlackHole 2ch
+6. Open Audacity
+7. Start recording and start playing at the same time.  Easiest is to use one hand to press play on the keyboard and the other to press record with the mouse.
+
+## Example
+
 For Audacity recording from Blackhole with Music.app playing into Blackhole.
 
 ```
